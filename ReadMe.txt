@@ -74,5 +74,5 @@ For any questions or feedback, please feel free to create an issue in this repos
 * Consider adding screenshots or examples of generated resumes (if applicable).
 * Feel free to modify this template to include more features or instructions specific to your project.
 
-![Image description](Drjaickal/ATS/images/image 1.jpeg)
+Drjaickal/ATS/images/image 1.jpeg
 

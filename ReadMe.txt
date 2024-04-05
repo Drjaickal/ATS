@@ -74,8 +74,5 @@ For any questions or feedback, please feel free to create an issue in this repos
 * Consider adding screenshots or examples of generated resumes (if applicable).
 * Feel free to modify this template to include more features or instructions specific to your project.
 
-c:\Users\T U F\Downloads\WhatsApp Image 2024-04-05 at 11.34.25 PM.jpeg
+![Image description](Drjaickal/ATS/images/image 1.jpeg)
 
-c:\Users\T U F\Downloads\WhatsApp Image 2024-04-05 at 11.34.41 PM.jpeg
-
-c:\Users\T U F\Downloads\WhatsApp Image 2024-04-05 at 11.35.16 PM.jpeg
